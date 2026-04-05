@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+*.pt
+*.ckpt
+checkpoints/
+datasets/
+wandb/
+.vscode/
+.idea/
+.env
